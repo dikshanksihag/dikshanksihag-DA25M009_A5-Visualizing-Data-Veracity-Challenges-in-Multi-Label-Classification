@@ -1,8 +1,11 @@
 # 🧬 DA5401 A5 — Visualizing Data Veracity Challenges in Multi-Label Classification
 
 **Author:** *Dikshank Sihag (DA25M009)* 
+
 **Dataset:** Yeast (Multi-label gene expression)  
+
 **Notebook:** `Assignment5.ipynb`  
+
 **Goal:** To explore and visualize **data veracity issues** (noisy labels, outliers, and hard-to-learn samples) using **non-linear dimensionality reduction** techniques — *t-SNE* and *Isomap*.
 
 ---
